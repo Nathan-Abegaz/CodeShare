@@ -1,4 +1,4 @@
-# Codeshare
+# CodeShare
 A collaborative web application that utilizes React, Nodejs, Expressjs, and the Socket.io library
 
 ## Real time text editor 📝
